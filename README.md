@@ -90,7 +90,3 @@ If you use this repository, please cite the associated manuscript:
 
 Differential Structural Profiles of the Hippocampus and Thalamus and Their Cognitive Relevance in Unilateral Mesial Temporal Lobe Epilepsy
 
-
-**[Your name]**  
-**[Your institution]**  
-**[Your email]**
